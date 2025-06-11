@@ -12,7 +12,6 @@
 
 > The clone is integrated with search functionality and mapbox-gl. Do have fun with the search and the dark theme.
 
-### ✨ [Live Demo](https://airbnb-clone-mauve-mu.vercel.app/)
 
 ## Getting Started 
 
